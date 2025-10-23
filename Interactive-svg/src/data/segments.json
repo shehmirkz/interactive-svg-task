@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "name": "People",
+      "segments": [
+        { "id": "p1", "label": "Developing Myself" },
+        { "id": "p2", "label": "Self Organisation" },
+        { "id": "p3", "label": "Health & Wellbeing" },
+        { "id": "p4", "label": "Teamwork" },
+        { "id": "p5", "label": "Collaboration" },
+        { "id": "p6", "label": "Leadership" }
+      ]
+    },
+    {
+      "name": "Practices",
+      "segments": [
+        { "id": "pr1", "label": "Technical & Engineering" },
+        { "id": "pr2", "label": "Project Management" },
+        { "id": "pr3", "label": "Quality Management" },
+        { "id": "pr4", "label": "Resource Management" },
+        { "id": "pr5", "label": "Risk & Opportunity" },
+        { "id": "pr6", "label": "Monitoring & Control" }
+      ]
+    },
+    {
+      "name": "Perspectives",
+      "segments": [
+        { "id": "pe1", "label": "Foundations" },
+        { "id": "pe2", "label": "Understanding Org" },
+        { "id": "pe3", "label": "Governance & Ethics" },
+        { "id": "pe4", "label": "Perspectives" },
+        { "id": "pe5", "label": "Future" },
+        { "id": "pe6", "label": "Innovation" }
+      ]
+    },
+    {
+      "name": "Future",
+      "segments": [
+        { "id": "f1", "label": "Strategy & Planning" },
+        { "id": "f2", "label": "People Change" },
+        { "id": "f3", "label": "Transformation" },
+        { "id": "f4", "label": "Digitalization" },
+        { "id": "f5", "label": "AI & Automation" },
+        { "id": "f6", "label": "Future Vision" }
+      ]
+    }
+  ]
+}
