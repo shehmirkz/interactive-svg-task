@@ -1,0 +1,94 @@
+{
+  "sectors": [
+    {
+      "id": "people",
+      "label": "People",
+      "children": [
+        {
+          "id": "develop",
+          "label": "Developing Myself",
+          "segments": [
+            { "id": "s1", "label": "Self Awareness" },
+            { "id": "s2", "label": "Growth Mindset" },
+            { "id": "s3", "label": "Continuous Learning" },
+            { "id": "s4", "label": "Adaptability" },
+            { "id": "s5", "label": "Accountability" },
+            { "id": "s6", "label": "Emotional Intelligence" }
+          ]
+        },
+        {
+          "id": "team",
+          "label": "Teamwork & Collaboration",
+          "segments": [
+            { "id": "t1", "label": "Effective Communication" },
+            { "id": "t2", "label": "Trust & Respect" },
+            { "id": "t3", "label": "Conflict Resolution" },
+            { "id": "t4", "label": "Inclusive Culture" },
+            { "id": "t5", "label": "Shared Ownership" },
+            { "id": "t6", "label": "Peer Support" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "practices",
+      "label": "Practices",
+      "children": [
+        {
+          "id": "project",
+          "label": "Project Management",
+          "segments": [
+            { "id": "p1", "label": "Planning & Scheduling" },
+            { "id": "p2", "label": "Scope Definition" },
+            { "id": "p3", "label": "Risk & Opportunity" },
+            { "id": "p4", "label": "Stakeholder Management" },
+            { "id": "p5", "label": "Budget & Resources" },
+            { "id": "p6", "label": "Progress Monitoring" }
+          ]
+        },
+        {
+          "id": "tech",
+          "label": "Technical & Engineering",
+          "segments": [
+            { "id": "t1", "label": "System Design" },
+            { "id": "t2", "label": "Quality Assurance" },
+            { "id": "t3", "label": "Process Optimization" },
+            { "id": "t4", "label": "Sustainability Focus" },
+            { "id": "t5", "label": "Innovation in Practice" },
+            { "id": "t6", "label": "Technical Leadership" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "perspectives",
+      "label": "Perspectives",
+      "children": [
+        {
+          "id": "foundations",
+          "label": "Foundations",
+          "segments": [
+            { "id": "f1", "label": "Governance & Ethics" },
+            { "id": "f2", "label": "Organizational Understanding" },
+            { "id": "f3", "label": "Policy Awareness" },
+            { "id": "f4", "label": "Professional Standards" },
+            { "id": "f5", "label": "Compliance & Integrity" },
+            { "id": "f6", "label": "Corporate Responsibility" }
+          ]
+        },
+        {
+          "id": "future",
+          "label": "Future",
+          "segments": [
+            { "id": "fu1", "label": "Digital Transformation" },
+            { "id": "fu2", "label": "AI & Automation" },
+            { "id": "fu3", "label": "Sustainability & ESG" },
+            { "id": "fu4", "label": "Future Readiness" },
+            { "id": "fu5", "label": "Data-Driven Decision Making" },
+            { "id": "fu6", "label": "Innovation Culture" }
+          ]
+        }
+      ]
+    }
+  ]
+}
